@@ -1,16 +1,12 @@
 [
   "Content-Type",
-  "X-Lvyii-Application-Id",
-  "X-Lvyii-Application-Key",
-  "X-Lvyii-Client-Version",
-  "X-Lvyii-Request-Sign",
-  "X-Lvyii-Session-Token",
   "X-LY-Id",
   "X-LY-Key",
   "X-LY-Prod",
   "X-LY-Session",
   "X-LY-Sign",
   "X-LY-UA",
+  "X_LY_Client_Version",
   "X-Requested-With",
 ]
 
