@@ -1,6 +1,6 @@
 {
   "name": "lvyii_cors_headers",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Cors Headers for Lvyii SDK",
   "main": "index.json",
   "scripts": {
